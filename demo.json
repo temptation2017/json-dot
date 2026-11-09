@@ -1,0 +1,22 @@
+{
+  "store": {
+    "name": "Northwind Demo Shop",
+    "open": true
+  },
+  "items": [
+    {
+      "id": 1,
+      "name": "Oak Desk",
+      "price": 199.5
+    },
+    {
+      "id": 2,
+      "name": "Pine Shelf",
+      "tags": ["wood", "home"]
+    }
+  ],
+  "meta": {
+    "version": 1,
+    "note": null
+  }
+}
